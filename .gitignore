@@ -15,12 +15,9 @@ yarn-error.log*
 pnpm-debug.log*
 
 # Editor directories and files
-.idea/
+.idea
 .vscode
-<<<<<<< HEAD
 .browserslistrc
-=======
->>>>>>> parent of e78b0c6 (可视化作业提交)
 *.suo
 *.ntvs*
 *.njsproj
