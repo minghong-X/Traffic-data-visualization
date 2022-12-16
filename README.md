@@ -1,9 +1,10 @@
-# vue-echarts
+# 研究生可视化课程的作业
 
-> A Vue.js project
-数据可视化
-## 项目预览地址
-https://bym110.github.io/vue-echarts/preview
+> 此项目基于bym110/vue-echarts，仅改动page2
+* 这是我期末的结课作业，有需要可以自取，侵必删！
+## 源代码地址
+https://github.com/bym110/vue-echarts
+
 ## Build Setup
 
 ``` bash
@@ -13,17 +14,7 @@ npm install
 # serve with hot reload at localhost:8080
 npm run serve
 
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
 ```
-## 三个大屏模板 样式还是比较全的 包括世界地图、中国地图、canvas转盘等
-### page1 
-![image](src/assets/page1.jpg)
 ### page2 
-![image](src/assets/page2.jpg)
-### page3 
-![image](src/assets/page3.jpg)
+![image](src/assets/traffic_v.jpg)
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
